@@ -24,7 +24,7 @@ const data = {
 // .catch(err => console.log(err))
 
 // Delete Post
-http.delete('https://jsonplaceholder.typicode.com/users/3')
-.then(data => console.log(data))
-.catch(err => console.log(err))
+// http.delete('https://jsonplaceholder.typicode.com/users/3')
+// .then(data => console.log(data))
+// .catch(err => console.log(err))
 
